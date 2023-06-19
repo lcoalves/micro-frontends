@@ -1,0 +1,15 @@
+{
+  "name": "mfe-starter",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "concurrently \"wsrun --parallel start\"",
+    "build": "concurrently \"wsrun --parallel build\""
+  },
+  "devDependencies": {
+    "concurrently": "^7.5.0",
+    "wsrun": "^5.2.4"
+  }
+}

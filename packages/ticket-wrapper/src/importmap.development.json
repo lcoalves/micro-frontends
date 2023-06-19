@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@org-demo/root-config": "http://localhost:9000/org-demo-root-config.js",
+    "@org-demo/react-single": "http://localhost:8080/org-demo-react-single.js",
+    "@org-demo/react-multiples": "http://localhost:8081/org-demo-react-multiples.js",
+    "@org-demo/react-parcel": "http://localhost:8082/org-demo-react-parcel.js",
+    "@org-demo/react-route": "http://localhost:8083/org-demo-react-route.js",
+    "@org-demo/react-lazy": "http://localhost:8084/org-demo-react-lazy.js",
+    "@org-demo/react-header": "http://localhost:8085/org-demo-react-header.js",
+    "@org-demo/utils": "http://localhost:8086/org-demo-utils.js"
+  }
+}

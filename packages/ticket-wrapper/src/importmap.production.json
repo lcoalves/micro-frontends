@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@org-demo/root-config": "https://levva-demo-mfe.s3.amazonaws.com/org-demo-root-config.js",
+    "@org-demo/react-single": "https://levva-demo-mfe.s3.amazonaws.com/org-demo-react-single.js",
+    "@org-demo/react-multiples": "https://levva-demo-mfe.s3.amazonaws.com/org-demo-react-multiples.js",
+    "@org-demo/react-parcel": "https://levva-demo-mfe.s3.amazonaws.com/org-demo-react-parcel.js",
+    "@org-demo/react-route": "https://levva-demo-mfe.s3.amazonaws.com/org-demo-react-route.js",
+    "@org-demo/react-lazy": "https://levva-demo-mfe.s3.amazonaws.com/org-demo-react-lazy.js",
+    "@org-demo/react-header": "https://levva-demo-mfe.s3.amazonaws.com/org-demo-react-header.js",
+    "@org-demo/utils": "https://levva-demo-mfe.s3.amazonaws.com/org-demo-utils.js"
+  }
+}
